@@ -36,6 +36,60 @@ O BANCO DE DADOS ARMAZENA DADOS E O SISTEMA DE INFORMAÇÃO GERA INFORMAÇÕES.
 
 O PROBLEMA DE ARMAZENAR INFORMAÇÃO AO INVÉS DO DADO, É QUE NO CASO DA IDADE, NOS PRÓXIMOS ANOS, A PESSOA ESTARÁ COM 48, 49, 50 ANOS... MAS NO SISTEMA DE INFORMAÇÃO PERMANECERÁ 47 ANOS.
 
+---
+
+ESSES DADOS FICAM ARMAZENADOS EM ARQUIVOS E OS ARQUIVOS FICAM ORGANIZADOS DENTRO DE UM SISTEMA.
+
+O SISTEMA DE ARQUIVOS É UM SISTEMA RESPONSÁVEL POR ARMAZENAR ARQUIVOS CONTENDO DADOS.
+
+O SISTEMA TEM UM CONJUNTO DE OPERAÇÕES QUE ACESSAM OS DADOS PARA GERAR AS INFORMAÇÕES.
+
+### SISTEMAS DE ARQUIVOS:
+
+É uma estrutura que indica como os arquivos devem ser gravados e guardados em mídias.
+
+O Sistema de arquivos é quem determina como os arquivos podem ser gravados, copiados, alterados, nomeados e excluídos.
+
+
+Toda e qualquer manipulação de dados numa mídia, necessita de um sistema de arquivos.
+
+OBJETIVO DOS SISTEMAS DE ARQUIVOS:
+
+Fornecer mecanismos para usuários manipularem arquivos e diretórios;
+
+Garantir a validade e coerência dos dados;
+
+Otimizar o acesso aos dados.
+
+---
+
+### BANCO DE DADOS X SGBD's
+
+BANCO DE DADOS É QUALQUER LUGAR QUE TENHA DADOS ARMAZENADOS EM UMA DETERMINADA ORDEM.
+
+EXEMPLO: Um livro é um local que tem dados armazenados na ordem de páginas.
+
+EXEMPLO: Um arquivo de metal com pastas dentro desse arquivo, como em cartórios, aqueles armários de metal com várias fichinhas.
+
+EXEMPLO: O fichário de madeira do dentista.
+
+---
+
+PODEMOS ENTENDER COMNO BANCO DE DADOS(DATA BASE):
+
+COLEÇÃO DE DADOS RELACIONADOS;
+
+COLEÇÃO LOGICAMENTE COERENTE DE DADOS COM ALGUM SIGNIFICADO INERENTE;
+
+UM BANCO DE DADOS ESTÁ SEMPRE ASSOCIADO A APLICAÇÕES E A USUÁRIOS QUE TÊM INTERESSE NELE;
+
+QUALQUER SISTEMA QUE REÚNA E MANTENHA ORGANIZADA UMA SÉRIE DE DADOS RELACIONADOS A UM DETERMIANDO ASSUNTO, EM UMA DETERMINADA ORDEM.
+
+---
+
+
+
+
 
 
 
