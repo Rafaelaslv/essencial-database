@@ -87,6 +87,7 @@ QUALQUER SISTEMA QUE REÚNA E MANTENHA ORGANIZADA UMA SÉRIE DE DADOS RELACIONAD
 
 ---
 
+SGBD (Sistema Gerenciador de Banco de Dados) tem ferramentas, mecanismos, aplicações que permitem o acesso À 
 
 
 
