@@ -87,7 +87,19 @@ QUALQUER SISTEMA QUE REÚNA E MANTENHA ORGANIZADA UMA SÉRIE DE DADOS RELACIONAD
 
 ---
 
-SGBD (Sistema Gerenciador de Banco de Dados) tem ferramentas, mecanismos, aplicações que permitem o acesso À 
+SGBD (Sistema Gerenciador de Banco de Dados) tem ferramentas, mecanismos, aplicações que permitem o acesso à manipulação e à criação de estruturas para o banco de dados.
+
+EXEMPLO: O LIVRO FÍSICO NÃO POSSUI NENHUM MECANISMO DE SEGURANÇA (NÃO HÁ NADA QUE NOS IMPEÇA A ACESSAR ALGO DO LIVRO FÍSICO)
+
+E NÃO PODEMOS TER UM BANCO DE DADOS QUE NÃO TENHA SEGURANÇA E ISSO É UMA DAS FUNÇÕES DO SGBD, IMPOR NÍVEIS DE SEGURANÇA NO BANCO DE DADOS, ATRAVÉS DA CRIAÇÃO DE USUÁRIOS E A CONCESSÃO DE PRIVILÉGIOS.
+
+EXEMPLO: COERÊNCIA / 
+
+
+
+
+
+
 
 
 
